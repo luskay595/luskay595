@@ -17,7 +17,7 @@
 
 - **Site Personnel** : [vanneste-lucas.com](https://vanneste-lucas.com)
 - **LinkedIn** : [Lucas Vanneste](https://www.linkedin.com/in/lucas-vanneste-989758271)
-- **Email** : [lucas.vanneste@example.com](mailto:lucas.vanneste@example.com)
+- **Email** : [lucas@vanneste-lucas.com](mailto:lucas@vanneste-lucas.com)
 
 N'hésitez pas à me contacter pour discuter de collaborations potentielles ou simplement échanger sur des sujets technologiques passionnants !
 
