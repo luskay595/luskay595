@@ -20,6 +20,7 @@
 - **Email** : [lucas@vanneste-lucas.com](mailto:lucas@vanneste-lucas.com)
 
 N'hésitez pas à me contacter pour discuter de collaborations potentielles ou simplement échanger sur des sujets technologiques passionnants !
+![Statistiques GitHub de luskay595](https://github-readme-stats.vercel.app/api?username=luskay595&show_icons=true&theme=radical)
 
 ---
 
